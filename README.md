@@ -25,6 +25,7 @@ Contato
 Se você tiver alguma dúvida ou quiser entrar em contato, pode me encontrar no LinkedIn ou por e-mail.
 
 LinkedIn: https://www.linkedin.com/in/guilherme-morais-a58548123/
+
 E-mail: morais3295@gmail.com
 
 Espero que esta aplicação seja útil e facilite o seu trabalho com os arquivos DIRF da Receita Federal. Aproveite!
